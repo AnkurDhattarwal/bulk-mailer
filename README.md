@@ -1,3 +1,7 @@
+this is an application for doing bulk mails which are fetched by https://github.com/AnkurDhattarwal/contactout-chrome-extension
+
+this is live -> https://bulk-cold-mailer.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
